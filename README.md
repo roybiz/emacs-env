@@ -1,2 +1,2 @@
 # emacs-env
-my self used custom config for emacs 
+my self custom config for emacs 
